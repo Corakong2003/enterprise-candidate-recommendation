@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业候选人推荐词生成"
+  short_description: "基于候选人 PDF 和补充信息生成企业客户推荐词"
+  default_prompt: "请使用 $enterprise-candidate-recommendation，根据候选人简历 PDF、推荐客户及岗位和补充信息，严格按固定模板生成可直接发送给企业客户的候选人推荐词。"
